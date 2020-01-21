@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  height: 100%;
+}
+
+h3 {
+  color: #666666;
+  margin: 0;
+}
+
+.draggable,
+.cursor-hover {
+  cursor: pointer;
+}
+
+.draggable:hover {
+  background-color: #f4f4f4;
+}
+
+.ad-tables ul {
+  min-height: 270px;
+  height: 1px;
+}
+
+.move-ad-icon:hover {
+  color: rgb(172, 172, 172);
+}
